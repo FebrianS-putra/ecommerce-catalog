@@ -1,2 +1,0 @@
-# ecommerce-catalog
-catalog ecommerspage
